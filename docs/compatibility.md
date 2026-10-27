@@ -154,7 +154,7 @@ SNK artwork.
 | Path | Size | SHA-256 |
 |---|---:|---|
 | `dist/windows/Samsho4-Windows-x64/` | folder, exe 35,264,000 bytes | `Samsho4.exe`: see `dist/SHA256SUMS.txt` |
-| `dist/steamdeck/Samsho4-SteamDeck-x86_64.AppImage` | 14,146,040 bytes | `b2cbcd0f74f2f563188350ca5e34f9083364a359e91da45990a3ae537ba7671d` |
+| `dist/steamdeck/Samsho4-SteamDeck-x86_64.AppImage` | 14,146,040 bytes | `2d667a865545b26c20744cc601688613ee33c87cbad3a5e93264da624ef8b9d6` |
 
 `dist/SHA256SUMS.txt` lists every file in both packages.
 
