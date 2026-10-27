@@ -1,0 +1,17 @@
+# ROMs, BIOS files and anything generated from them are never committed.
+roms/
+generated/
+entries*.txt
+
+# Build trees
+build/
+build-*/
+dist/
+
+# Local test output (screenshots and audio from SNK artwork/data)
+tests/out/
+
+# Toolchains and packaging helpers
+deps/
+*.AppImage
+*.zip.001

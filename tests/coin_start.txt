@@ -1,0 +1,8 @@
+# Samurai Shodown IV - boot to a match: coin, start, skip the intro, pick
+# the default character and stage.
+900 coin
+1000 start
+1500 start
+4000 start
+4400 a
+5000-5200 a

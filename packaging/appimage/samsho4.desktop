@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Samurai Shodown IV
+GenericName=Neo Geo fighting game (native recompilation)
+Comment=Native static recompilation of Samurai Shodown IV: Amakusa's Revenge
+Exec=Samsho4
+Icon=samsho4
+Categories=Game;ArcadeGame;
+Terminal=false
+X-AppImage-Name=Samurai Shodown IV
+X-AppImage-Version=0.1.0
